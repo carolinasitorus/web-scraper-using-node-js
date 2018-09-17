@@ -1,0 +1,29 @@
+{
+  "name": "promotion-scraper-for-bank-mega",
+  "version": "1.0.0",
+  "description": "A web scraper for credit card promotion - Bank Mega website",
+  "main": "solution.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carolinasitorus/web-scraper-using-node-js.git"
+  },
+  "keywords": [
+    "web",
+    "scraper",
+    "NodeJs"
+  ],
+  "author": "Carolina S",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carolinasitorus/web-scraper-using-node-js/issues"
+  },
+  "homepage": "https://github.com/carolinasitorus/web-scraper-using-node-js#readme",
+  "dependencies": {
+    "bluebird": "^3.5.2",
+    "cheerio": "^1.0.0-rc.2",
+    "sync-request": "^6.0.0"
+  }
+}
